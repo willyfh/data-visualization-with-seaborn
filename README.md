@@ -21,4 +21,4 @@ Output
     ![](./output/swarm%20plot.jpg)
 
 *  Overlaying violin plot and swarm plot
-    ![](.output/overlaying%20swarm%20and%20violin%20plot.jpg)
+    ![](./output/overlaying%20swarm%20and%20violin%20plot.jpg)
